@@ -1,6 +1,3 @@
-//isim:Bilge Ceren Yilmaz
-//no:10658469302
-//vs 2022 ile yapildi
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
